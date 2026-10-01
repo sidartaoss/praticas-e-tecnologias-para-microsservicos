@@ -3,7 +3,7 @@
 Guia de referência rápida sobre **o que torna uma arquitetura de microsserviços viável na prática**: organização dos times, ownership, Team Topologies, cultura DevOps, estratégia de testes, containers, orquestração, nuvem, padrões, *microservice chassis* e o ecossistema cloud native.
 
 > [!NOTE]
-> Síntese pessoal, escrita com minhas palavras, de conceitos consolidados na literatura de arquitetura e de engenharia de software. As fontes estão nas [referências](#referências). Complementa os guias [Fundamentos de Arquitetura de Software](https://github.com/sidartaoss/fundamentos-arquitetura-software) e [Monolitos e Microsserviços](https://github.com/sidartaoss/monolitos-e-microsservicos).
+> Síntese pessoal de conceitos consolidados na literatura de arquitetura e de engenharia de software. As fontes estão nas [referências](#referências). Complementa os guias [Fundamentos de Arquitetura de Software](https://github.com/sidartaoss/fundamentos-arquitetura-software) e [Monolitos e Microsserviços](https://github.com/sidartaoss/monolitos-e-microsservicos).
 
 ## Em resumo
 
